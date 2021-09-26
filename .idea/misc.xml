@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/drawable/custom_button_back.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/drawable/full_rounded_corner_view.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/drawable/progress_back.xml" value="0.3141025641025641" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/drawable/round_drawable.xml" value="0.3828125" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/drawable/rounded_corner_view.xml" value="0.3223684210526316" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_add_course.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_add_delivery.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_add_item.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_add_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_add_service.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_admin_home.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_delivery.xml" value="0.1" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_edit_delivery.xml" value="0.1" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_edit_item.xml" value="0.4" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_edit_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_edit_service.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_item.xml" value="0.3047619047619048" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_login.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_order.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_order_details.xml" value="0.1683760683760684" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_payment.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_registration.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_result.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_user.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_user_delivery.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_user_item.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_user_order_list.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/activity_user_payment.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_delivery.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_dialog.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_item.xml" value="0.3047619047619048" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_order.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_payment.xml" value="0.1" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_user_delivery.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_user_item.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_user_payment.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/bottom_sheet_user_service.xml" value="0.2970464135021097" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/delivery_rv_item.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/fragment_delivery.xml" value="0.1683760683760684" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/fragment_order.xml" value="0.1286231884057971" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/fragment_payment.xml" value="0.1683760683760684" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/fragment_service.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/item_rv_item.xml" value="0.4" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/item_rv_user_service.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/payment_rv_item.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/service_rv_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/user_delivery_rv_item.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/user_item_rv_item.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/user_order_rv_item.xml" value="0.264" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/user_payment_rv_item.xml" value="0.30085470085470084" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/layout/user_service_rv_item.xml" value="0.3087719298245614" />
+        <entry key="..\:/Users/Office/AndroidStudioProjects/CrudDemo/app/src/main/res/menu/menu_main.xml" value="0.30085470085470084" />
+        <entry key="..\:/new crud/CrudDemo/app/src/main/res/layout/activity_registration.xml" value="0.12991452991452992" />
+        <entry key="..\:/new crud/CrudDemo/app/src/main/res/layout/activity_user_item.xml" value="0.20854700854700856" />
+        <entry key="..\:/new crud/CrudDemo/app/src/main/res/layout/user_item_rv_item.xml" value="0.12991452991452992" />
+        <entry key="..\:/new crud/CrudDemo/app/src/main/res/menu/menu_main.xml" value="0.12991452991452992" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
